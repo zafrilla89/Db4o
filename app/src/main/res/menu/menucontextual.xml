@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m_editar"
+        android:title="@string/editar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/m_borrar"
+        android:title="@string/borrar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

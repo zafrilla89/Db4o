@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Telefonos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="listado_telefonos">LISTADO DE TELÉFONOS</string>
+    <string name="marca">Marca: </string>
+    <string name="modelo">Modelo: </string>
+    <string name="precio">Precio: </string>
+    <string name="stock">Stock: </string>
+    <string name="anadir">AÑADIR</string>
+    <string name="anadirmovil">AÑADIR TELEFONO:</string>
+    <string name="borrar">BORRAR</string>
+    <string name="editar">EDITAR</string>
+    <string name="editartelefono">EDITAR TELEFONO</string>
+    <string name="numerostock">NÚMERO STOCK</string>
+    <string name="preciomayuscula">PRECIO</string>
+    <string name="modelomayuscula">MODELO</string>
+    <string name="marcamayuscula">MARCA</string>
+    <string name="title_activity_anadir">Anadir</string>
+
+</resources>
