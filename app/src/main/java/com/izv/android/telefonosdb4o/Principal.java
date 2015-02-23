@@ -68,7 +68,7 @@ public class Principal extends Activity {
             ad = new Adaptador(this,R.layout.itemlista,datos);
             lv = (ListView)findViewById(R.id.lvlista);
             lv.setAdapter(ad);
-            registerForContextMenu(lv);;
+            registerForContextMenu(lv);
         }
     }
 
